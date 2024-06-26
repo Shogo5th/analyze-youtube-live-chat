@@ -16,7 +16,7 @@ So, I specified NG words and points are deducted if they are included.
 The top 10 places with the highest total number of points are listed as recommended
 
 ### Reference
-https://github.com/hase-ryo/youtube_livechat_replay_crawler
-https://github.com/yousukeayada/youtube-api/blob/master/vtuber/get_chat_replay_info.py
-https://note.com/you0832/n/ne85768f9c817
-https://note.com/or_ele/n/n5fc139ff3f06
+https://github.com/hase-ryo/youtube_livechat_replay_crawler  
+https://github.com/yousukeayada/youtube-api/blob/master/vtuber/get_chat_replay_info.py  
+https://note.com/you0832/n/ne85768f9c817  
+https://note.com/or_ele/n/n5fc139ff3f06  
